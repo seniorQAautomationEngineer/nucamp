@@ -34,3 +34,8 @@ footer {
 .navbar {
     background-color: #901CAD;
 }
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
