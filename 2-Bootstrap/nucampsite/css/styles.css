@@ -56,13 +56,3 @@ header h2 {
 #loginModal .modal-header {
   background-color: #901CAD;
   color: white; }
-
-
-  table {
-    border-collapse: collapse;
-}
-td, th {
-    border: 1px solid black;
-    padding: 5px;
-    position: relative;
-}
